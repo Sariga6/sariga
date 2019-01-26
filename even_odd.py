@@ -1,9 +1,9 @@
 s=int(input("enter the number"))
 if s>0:
     if s%2==0:
-        print("even")
+        print("Even")
     else:
-        print("odd")
+        print("Odd")
 else:    
     print("invalid")    
    
