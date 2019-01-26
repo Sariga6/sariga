@@ -1,6 +1,5 @@
-a=input("enter the number")
-if(a.isdigit()):
-    s=(int(a))
+s=int(input("enter the number"))
+if s>0:
     if s%2==0:
         print("even")
     else:
